@@ -1,21 +1,27 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package calculator;
 
-/**
- *
- * @author hafiz
- */
-public class Calculator {
+import java.awt.event.*;
+import java.awt.*;
+import javax.swing.*;
 
-    /**
-     * @param args the command line arguments
-     */
+class Calculator extends Frame{
     public static void main(String[] args) {
-        // TODO code application logic here
+        Frame f = new Calculator("Calculator");
+        f.setSize(600,600);
+        f.setVisible(true);
+    }
+
+    public Calculator(String str){
+        super(str);
+        setLayout(new FlowLayout());
+
+        TextField num1,num2;
+
+        num1 = new TextField();
+        num2 = new TextField();
+
+
 
     }
     

@@ -6,7 +6,7 @@ class Bton extends Frame{
 
     public static void main(String[] args){
         Frame f = new Bton("New Button");
-        f.setSize(400,700);
+        f.setSize(400,200);
         f.setVisible(true);
     }
 

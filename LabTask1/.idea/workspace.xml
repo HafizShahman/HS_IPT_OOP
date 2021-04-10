@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="558f43ae-de6e-4421-a79f-700fe470ced0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/src/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/src/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab1/src/Button/inter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/Button/inter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab1/src/lab1/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/lab1/Lab1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +28,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PizzaOrderForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PizzaOrderForm" />
+      <module name="LabTask1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PizzaOrderForm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,5 +65,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

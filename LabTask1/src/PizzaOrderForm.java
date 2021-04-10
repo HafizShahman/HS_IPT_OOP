@@ -66,13 +66,11 @@ class PizzaOrderForm extends Frame{
         panelButton.add(btnExit);
         
         
-        Panel newPanel = new Panel(new BorderLayout(1,3));
-        newPanel.add(panelSize, BorderLayout.NORTH);
-        newPanel.add(panelToppings, BorderLayout.CENTER);
-        newPanel.add(panelButton, BorderLayout.SOUTH);
-        frame.add(newPanel, BorderLayout.CENTER);
         
-        add(newPanel);
+        add(panelSize, BorderLayout.NORTH);
+        add(panelToppings, BorderLayout.CENTER);
+        add(panelButton, BorderLayout.SOUTH);
+        
        }
        
 }

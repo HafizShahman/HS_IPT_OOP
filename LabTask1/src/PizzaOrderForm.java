@@ -3,6 +3,7 @@
  * @author
  */
 
+import javax.swing.*;
 import java.awt.*;
 
 class PizzaOrderForm extends Frame{
@@ -25,7 +26,7 @@ class PizzaOrderForm extends Frame{
     public PizzaOrderForm(String str){   
         super(str);
         //Create frame and panel title
-        Frame frame = new Frame("Pizza Order Form");
+        JFrame frame = new JFrame("Pizza Order Form");
         Panel panelTitle = new Panel();
         frame.add(panelTitle, BorderLayout.NORTH);
         

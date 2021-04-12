@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="558f43ae-de6e-4421-a79f-700fe470ced0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LapTask2/LapTask2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LapTask2/out/production/LapTask2/laptask2/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/nbproject/private/private.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PizzaOrderForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PizzaOrderForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,15 +29,19 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1qSy5fVbgofETaJSHDFPApiKDkY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LapTask2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -66,5 +80,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

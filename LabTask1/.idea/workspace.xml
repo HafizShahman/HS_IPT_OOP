@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="558f43ae-de6e-4421-a79f-700fe470ced0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LapTask2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LapTask2/LapTask2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LapTask2/out/production/LapTask2/laptask2/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/nbproject/private/private.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PizzaOrderForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PizzaOrderForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LapTask2/out/production/LapTask2/laptask2/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LapTask2/out/production/LapTask2/laptask2/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LapTask2/src/laptask2/LapTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LapTask2/src/laptask2/LapTask2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
